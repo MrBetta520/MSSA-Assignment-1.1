@@ -16,3 +16,5 @@ Assignment 1.3.2 Write a program in C# to read n number of values in an array an
 Assignment 1.3.3 Write a program to sort an integer array in ascending and descending order. Array can be created with hard coded values.
 
 Assignment 1.4.1 Create a structure named “Point” and 2 data members: X and Y coordinate. Declare 2 points: P1 and P2. Determine if P2 is to the right or left of P1 or on same axis , by comparing the x coordinates. ( if p1.x is more than p2.x , it is to the right )
+
+Assignment 1.4.2 Write a class: “Student” with private data members: StudentId ( int), StudentFname (stirng), StudentLname (string ), StudentGrade ( char ) and public properties for each data member. Instantiate the class and assign data to properties.call get and set properties.
