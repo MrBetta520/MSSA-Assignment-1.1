@@ -23,4 +23,5 @@ Assignment 2.1 Write a base class: ‘Shape’ and add properties like id, name 
                Inherit circle shape from base class and add properties like radius. override calculate area logic for circle.        
                Inherit square class from shape and add change the calculate area logic. Add property like side of square.        
                Take the input from user to select circle or square and display the calculated area . no hard coded values!
+               
 Assignment 2.2 Write a console application to create a text file and save your basic details like name, age, address ( use dummy data). Read the details from same file and print on console.
