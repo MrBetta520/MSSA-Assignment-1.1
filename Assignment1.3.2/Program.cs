@@ -23,7 +23,7 @@ namespace Assignment1._3._2
             
             for (int i = 0; i < length; i++)
             {
-                Console.Write("element - 0: ");
+                Console.Write($"element - {i+1}: ");
                 a1[i] = Convert.ToInt32(Console.ReadLine());
             }
 
