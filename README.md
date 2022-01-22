@@ -18,3 +18,8 @@ Assignment 1.3.3 Write a program to sort an integer array in ascending and desce
 Assignment 1.4.1 Create a structure named “Point” and 2 data members: X and Y coordinate. Declare 2 points: P1 and P2. Determine if P2 is to the right or left of P1 or on same axis , by comparing the x coordinates. ( if p1.x is more than p2.x , it is to the right )
 
 Assignment 1.4.2 Write a class: “Student” with private data members: StudentId ( int), StudentFname (stirng), StudentLname (string ), StudentGrade ( char ) and public properties for each data member. Instantiate the class and assign data to properties.call get and set properties.
+
+Assignment 2.1 Write a base class: ‘Shape’ and add properties like id, name and color and method like ‘calculate area’ .     
+               Inherit circle shape from base class and add properties like radius. override calculate area logic for circle.        
+               Inherit square class from shape and add change the calculate area logic. Add property like side of square.        
+               Take the input from user to select circle or square and display the calculated area . no hard coded values!
