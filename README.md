@@ -25,3 +25,11 @@ Assignment 2.1 Write a base class: ‘Shape’ and add properties like id, name 
                Take the input from user to select circle or square and display the calculated area . no hard coded values!
                
 Assignment 2.2 Write a console application to create a text file and save your basic details like name, age, address ( use dummy data). Read the details from same file and print on console.
+
+Assignment 4.1.1 Write a method that returns a string of even numbers greater than 0 and less than 100.
+
+Assignment 4.1.2 Given a year as integer, write a method that checks if year is leap.
+
+Assignment 4.1.3 Given a string, write a method that returns that string in reverse order.
+
+Assignment 4.1.4 Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string.
