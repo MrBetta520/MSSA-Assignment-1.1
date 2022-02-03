@@ -65,3 +65,7 @@ Assignment 4.1.3 Given a string, write a method that returns that string in reve
 Assignment 4.1.4 Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string.
 
 ********************************************************************************************************************************************************************************
+
+Student Management System: is used to add student information, delete student information and display student information.
+
+********************************************************************************************************************************************************************************
