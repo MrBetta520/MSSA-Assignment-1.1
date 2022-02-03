@@ -1,0 +1,11 @@
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student_Management_System.fStudentManagement.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Student Management System\obj\Debug\Student_Management_System.Form2.resources
