@@ -1,0 +1,13 @@
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\bin\Debug\Meteorbucks.exe.config
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\bin\Debug\Meteorbucks.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\bin\Debug\Meteorbucks.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.csproj.AssemblyReference.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.Feedback.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.Main.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.Order.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.Hot_Coffee_Checkout.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.Properties.Resources.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.csproj.GenerateResource.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.csproj.CoreCompileInputs.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Meteorbucks\obj\Debug\Meteorbucks.pdb
