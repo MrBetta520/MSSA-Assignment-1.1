@@ -73,3 +73,7 @@ Student Management System: is used to add student information, delete student in
 Meteorbucks is a coffee order application. Customers can order coffee, leave feedback, and so on.
 
 ********************************************************************************************************************************************************************************
+
+Car management is used serialization and deserialization to convert car data to there different types: XML, JSON, and Binary.
+
+********************************************************************************************************************************************************************************
