@@ -1,0 +1,17 @@
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\bin\Debug\Car Management.exe.config
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\bin\Debug\Car Management.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\bin\Debug\Car Management.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.csproj.AssemblyReference.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.csproj.ResolveComReference.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car_Management.Form1.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car_Management.Properties.Resources.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.csproj.GenerateResource.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.csproj.CoreCompileInputs.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.exe
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car Management.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car_Management._718.resources
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Car Management\obj\Debug\Car_Management.Form2.resources
