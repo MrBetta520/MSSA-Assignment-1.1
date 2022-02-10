@@ -1,0 +1,6 @@
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\bin\Debug\Books.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\bin\Debug\Books.pdb
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\obj\Debug\Books.dll
+C:\Users\Yang Yu\Desktop\MSSA\PACD5\20483\Books\obj\Debug\Books.pdb
