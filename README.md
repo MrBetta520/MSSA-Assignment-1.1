@@ -77,3 +77,7 @@ Meteorbucks is a coffee order application. Customers can order coffee, leave fee
 Car management is used serialization and deserialization to convert car data to there different types: XML, JSON, and Binary.
 
 ********************************************************************************************************************************************************************************
+
+Books: this assignment asks me to use dll file to store books data in the backend, and display, add, delete books in the windows form.
+
+********************************************************************************************************************************************************************************
